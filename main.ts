@@ -1,5 +1,5 @@
 /**
- * MSM Smart Tools — Extension MakeCode
+ * MSM Smart Tools — Extension MakeCode 
  * Outils pédagogiques pour robotique éducative
  * DaDa:bit + WonderCam + Thymio (via dadabit)
  *
